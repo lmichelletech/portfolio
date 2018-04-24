@@ -1,0 +1,43 @@
+.me{
+    max-width: 150px;
+    border: 2px solid white;
+}
+#Why{
+    min-height: 450px;
+    height: 450px;
+    overflow: hidden;
+}
+.why_us_content p{
+    padding: 15px;
+}
+
+.intro{
+    background: black;
+    height: 450px;
+    overflow: hidden;
+    top: 100px;
+}
+.intro p{
+    color: white;
+    text-align: center;
+    position: absolute;
+    max-height: 450px;
+    min-width: 100%;
+}
+
+.intro p.title{
+    font-size: 36px;
+    padding: 5px;
+    top: 180px;
+    text-transform: uppercase;
+}
+.intro p.subtitle{
+    font-size: 36px;
+    padding: 5px;
+    top: 230px;
+}
+
+#Community{
+    background-color: #a2cff3;
+    color: #000;
+}
